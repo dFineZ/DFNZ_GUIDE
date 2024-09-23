@@ -12,5 +12,5 @@ ensure DFNZ_LOGGER (optional) --> if you dont want to use it set Config.UseLogge
 ensure DFNZ_GUIDE
 
 Optional scripts download:
-ox_target: https://github.com/overextended/ox_target/releases
-DFNZ_LOGGER: https://github.com/dFineZ/DFNZ_LOGGER/tree/main
+ - ox_target: https://github.com/overextended/ox_target/releases
+ - DFNZ_LOGGER: https://github.com/dFineZ/DFNZ_LOGGER/tree/main
