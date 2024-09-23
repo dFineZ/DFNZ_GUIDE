@@ -4,7 +4,7 @@ Installation:
 3. Add 'ensure DFNZ_GUIDE' to your server.cfg below the depencys
 
 
-__Example script starting order:__
+Example script starting order:
  - ensure oxmysql
  - ensure es_extended
  - ensure ox_lib
